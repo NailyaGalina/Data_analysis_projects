@@ -27,6 +27,11 @@ Python (pandas, plotly, requests).
 Построена итоговая карта сегментов студентов (RFM-сегментация):
 ![скриншот](Screenshot_3.png)
 
+<br>
+<br>
+
+*Проект разработан мной на основе материалов, автор которых - [karpov.courses](https://karpov.courses)
+
 
 
 
