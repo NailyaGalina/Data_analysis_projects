@@ -24,3 +24,9 @@ Python (pandas, numpy, seaborn, matplotlib).
 - Сформулированы рекомендации по развитию продукта.
 
 Решение и выводы в файле **[E-commerce_project](E-commerce_project.ipynb)**
+
+<br>
+<br>
+
+*Проект разработан мной на основе материалов, автор которых - [karpov.courses](https://karpov.courses)
+
