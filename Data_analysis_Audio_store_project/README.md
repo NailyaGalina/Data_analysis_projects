@@ -29,3 +29,9 @@ Python (pandas, numpy, seaborn, matplotlib).
 - Проанализирована работа менеджеров по продажам и составлен отчет.  
 
 Решение и выводы в файле **[Audio_store_project](Audio_store_project.ipynb)**
+
+<br>
+<br>
+
+*Проект разработан мной на основе материалов, автор которых - [karpov.courses](https://karpov.courses)
+
